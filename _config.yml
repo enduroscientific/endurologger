@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: EnduroLogger
+description: 'A highly-flexible and modular scientific logger for the modern era.'
+logo: '/assets/el.png'
+show_downloads: 'false'
+google_analytics: 'UA-137881521-1'
