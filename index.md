@@ -17,5 +17,11 @@ layout: default
 *   open-source software libraries to support your project code so the system works exactly like you want it to work.
 *   plus much more!
 
+### Questions?
+
+For more information about this system please send questions to:
+
+[contact@endurologger.com](mailto:contact@endurologger.com)
+
 * * *
 <small>Copyright &copy; Enduro Scientific, LLC</small>
