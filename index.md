@@ -16,3 +16,4 @@ Observations drive scientific discovery. The EnduroLogger is a highly-flexible, 
 *   plus much more!
 
 * * *
+<small>Copyright &copy; Enduro Scientific, LLC</small>
