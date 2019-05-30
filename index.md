@@ -10,10 +10,12 @@ layout: default
 
 ### The system will include:
 
-*   options for various high-precision 24-bit ADC modules capable of sampling over a wide range of output data rates and oversample rates.
+*   options for various high-precision 24-bit ADC modules capable of sampling over a wide range of output data rates, oversample rates, and filtering schemes.
 *   the ability log data from onboard ADCs as well as external sensors that communicate over serial, USB, SPI, I<sup>2</sup>C and more.
-*   available timing modules including chip-scale atomic clocks for seismic networks and other systems requiring very low drift and precise timing.
-*   components capable of functioning in the harshest field environments.
+*   storage using MicroSD with a maximum capacity of 1 TB.
+*   onboard FRAM memory for data buffering.
+*   flexible timing options for the low-speed and high-speed clocks, including the possibility of clocking the system with chip-scale atomic clocks for seismic networks and other systems requiring very low drift and precise timing.
+*   high-reliability components capable of functioning in the harshest field environments.
 *   open-source software libraries to support your project code so the system works exactly like you want it to work.
 *   plus much more!
 
